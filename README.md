@@ -50,7 +50,7 @@ instagram_graph_project/
 ```
 ## 🚀 Installation
 
-    Clone the repository:
+   Clone the repository:
 ```Bash
 
 git clone [https://github.com/anshulbadhani/socialspine.git](https://github.com/yourusername/socialspine.git)
@@ -93,9 +93,12 @@ Note: The resulting .gexf files can be opened in Gephi for visualization.
 
 This project enables the transformation of noisy data into structured graphs:
 
-    Full Graph: A dense, hairball-like structure representing all connections.
+   Full Graph: A dense, hairball-like structure representing all connections.
+      <img width="1896" height="1176" alt="full_hidden" src="https://github.com/user-attachments/assets/ed5a3eb1-e47c-4c85-b8c1-76486f22ad26" />
 
-    MST: A clean, tree-like structure highlighting the most critical relationships.
+
+   MST: A clean, tree-like structure highlighting the most critical relationships.
+      <img width="1896" height="1176" alt="mst_hidden" src="https://github.com/user-attachments/assets/5e812d46-c3dd-40c1-b0e7-8f6e7e4bcf2a" />
 
 ## 🤝 Author
 
